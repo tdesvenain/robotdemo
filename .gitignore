@@ -52,3 +52,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# robot
+log.html
+output.xml
+report.html
+selenium-screenshot*.png
